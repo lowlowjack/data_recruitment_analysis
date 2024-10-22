@@ -1,0 +1,49 @@
+Country,Keyword,Platform,Role Count
+Malaysia,Software Engineer,Linkedin (Entry),79
+Malaysia,Software Engineer,Linkedin ,456
+Malaysia,Software Engineer,JobStreet,185
+Malaysia,Software Engineer,Glassdoor,498
+Malaysia,Developer,Linkedin (Entry),258
+Malaysia,Developer,Linkedin ,1374
+Malaysia,Developer,JobStreet,745
+Malaysia,Developer,Glassdoor,1965
+Malaysia,Programmer,Linkedin (Entry),22
+Malaysia,Programmer,Linkedin ,109
+Malaysia,Programmer,JobStreet,55
+Malaysia,Programmer,Glassdoor,269
+Malaysia,Data Engineer,Linkedin (Entry),18
+Malaysia,Data Engineer,Linkedin ,118
+Malaysia,Data Engineer,JobStreet,66
+Malaysia,Data Engineer,Glassdoor,102
+Malaysia,Data Analyst,Linkedin (Entry),50
+Malaysia,Data Analyst,Linkedin ,172
+Malaysia,Data Analyst,JobStreet,82
+Malaysia,Data Analyst,Glassdoor,197
+Malaysia,Data Scientist,Linkedin (Entry),8
+Malaysia,Data Scientist,Linkedin ,76
+Malaysia,Data Scientist,JobStreet,35
+Malaysia,Data Scientist,Glassdoor,57
+Singapore,Software Engineer,Linkedin (Entry),129
+Singapore,Software Engineer,Linkedin ,928
+Singapore,Software Engineer,JobStreet,568
+Singapore,Software Engineer,Glassdoor,1212
+Singapore,Developer,Linkedin (Entry),133
+Singapore,Developer,Linkedin ,905
+Singapore,Developer,JobStreet,926
+Singapore,Developer,Glassdoor,2114
+Singapore,Programmer,Linkedin (Entry),17
+Singapore,Programmer,Linkedin ,32
+Singapore,Programmer,JobStreet,91
+Singapore,Programmer,Glassdoor,255
+Singapore,Data Engineer,Linkedin (Entry),20
+Singapore,Data Engineer,Linkedin ,200
+Singapore,Data Engineer,JobStreet,124
+Singapore,Data Engineer,Glassdoor,242
+Singapore,Data Analyst,Linkedin (Entry),42
+Singapore,Data Analyst,Linkedin ,159
+Singapore,Data Analyst,JobStreet,156
+Singapore,Data Analyst,Glassdoor,247
+Singapore,Data Scientist,Linkedin (Entry),24
+Singapore,Data Scientist,Linkedin ,199
+Singapore,Data Scientist,JobStreet,143
+Singapore,Data Scientist,Glassdoor,222

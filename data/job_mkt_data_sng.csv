@@ -1,0 +1,233 @@
+term,page,entry,agency,Duplicate,Company,Size,Has SE,Has Data (SG),Is Outsource
+se,34,23,linkedin,FALSE,Coupang,10000+,TRUE,TRUE,FALSE
+se,33,20,linkedin,TRUE,Tiktok,10000+,TRUE,TRUE,FALSE
+se,33,11,linkedin,FALSE,Japan Research Institute,200-500,TRUE,TRUE,FALSE
+se,32,21,linkedin,TRUE,Tiktok,10000+,TRUE,TRUE,FALSE
+se,32,4,linkedin,FALSE,Grain,50-200,TRUE,FALSE,FALSE
+se,30,25,linkedin,TRUE,Tiktok,10000+,TRUE,TRUE,FALSE
+se,30,23,linkedin,TRUE,Tiktok,10000+,TRUE,TRUE,FALSE
+se,30,15,linkedin,TRUE,Tiktok,10000+,TRUE,TRUE,FALSE
+se,30,8,linkedin,TRUE,Tiktok,10000+,TRUE,TRUE,FALSE
+se,29,2,linkedin,FALSE,Flintex Consulting,11-50,TRUE,TRUE,TRUE
+se,28,13,linkedin,FALSE,OKX,1000-5000,TRUE,TRUE,FALSE
+se,27,5,linkedin,TRUE,ByteDance,10000+,TRUE,TRUE,FALSE
+se,26,5,linkedin,TRUE,ByteDance,10000+,TRUE,TRUE,FALSE
+se,22,19,linkedin,FALSE,ByteDance,10000+,TRUE,TRUE,FALSE
+se,18,25,linkedin,FALSE,Goldman Sachs,10000+,TRUE,TRUE,FALSE
+se,18,13,linkedin,FALSE,Jobscentral,50-200,TRUE,TRUE,TRUE
+se,16,11,linkedin,TRUE,Tiktok,10000+,TRUE,TRUE,FALSE
+se,14,18,linkedin,FALSE,Tiktok,10000+,TRUE,TRUE,FALSE
+se,14,12,linkedin,FALSE,Shopback,500-1000,TRUE,TRUE,FALSE
+se,14,9,linkedin,FALSE,HOPE Technik,50-200,TRUE,FALSE,FALSE
+se,13,10,linkedin,FALSE,Ranstad Singapore,10000+,TRUE,TRUE,TRUE
+se,12,21,linkedin,FALSE,JPMorgan Chase,10000+,TRUE,TRUE,FALSE
+se,12,3,linkedin,FALSE,Tektome,11-50,TRUE,FALSE,FALSE
+se,9,22,linkedin,FALSE,Kong Inc,500-1000,TRUE,FALSE,FALSE
+se,7,1,linkedin,FALSE,Sisco Jobs,1-50,TRUE,FALSE,TRUE
+se,5,6,linkedin,FALSE,Virtu Financial,500-1000,TRUE,TRUE,FALSE
+se,3,20,linkedin,FALSE,Palantir Technologies,1000-5000,TRUE,FALSE,FALSE
+se,3,14,linkedin,FALSE,Google,10000+,TRUE,TRUE,FALSE
+se,3,4,linkedin,FALSE,DRW,1000-5000,TRUE,TRUE,FALSE
+se,2,22,linkedin,FALSE,DSTA,1000-5000,TRUE,TRUE,FALSE
+se,1,19,linkedin,FALSE,Virtuos,1000-5000,TRUE,TRUE,FALSE
+se,1,12,linkedin,FALSE,Hudson River Trading,500-1000,TRUE,TRUE,FALSE
+dev,36,17,linkedin,FALSE,Luxoft,10000+,TRUE,TRUE,TRUE
+dev,35,12,linkedin,TRUE,Singapore Insitute of Technology,500-1000,TRUE,FALSE,FALSE
+dev,35,7,linkedin,FALSE,eCEOs,50-200,TRUE,FALSE,FALSE
+dev,33,18,linkedin,TRUE,Manpower Singapore,1-50,TRUE,FALSE,TRUE
+dev,31,13,linkedin,FALSE,Unison Consulting,200-500,TRUE,TRUE,TRUE
+dev,31,12,linkedin,FALSE,Kerry Consulting,50-200,TRUE,TRUE,TRUE
+dev,30,15,linkedin,TRUE,Flintex Consulting,11-50,TRUE,TRUE,TRUE
+dev,29,24,linkedin,FALSE,BruntWork,5000-10000,TRUE,TRUE,TRUE
+dev,27,11,linkedin,FALSE,Krisv Consulting,1-10,TRUE,FALSE,TRUE
+dev,27,2,linkedin,FALSE,Exasoft,50-200,TRUE,FALSE,TRUE
+dev,26,25,linkedin,FALSE,Acronis,1000-5000,TRUE,FALSE,FALSE
+dev,25,25,linkedin,FALSE,DBS Bank,10000+,TRUE,TRUE,FALSE
+dev,21,3,linkedin,FALSE,Taleo Consulting,200-500,TRUE,FALSE,FALSE
+dev,20,16,linkedin,TRUE,Manpower Singapore,1-50,TRUE,FALSE,TRUE
+dev,18,9,linkedin,TRUE,Ranstad Singapore,10000+,TRUE,TRUE,TRUE
+dev,16,6,linkedin,FALSE,Bitcoin Devs Company,1-10,TRUE,FALSE,TRUE
+dev,15,23,linkedin,FALSE,Credit Agricole CIB,5000-10000,TRUE,TRUE,FALSE
+dev,15,12,linkedin,FALSE,Synechron,10000+,TRUE,TRUE,FALSE
+dev,13,20,linkedin,FALSE,GIC,1000-5000,TRUE,TRUE,FALSE
+dev,12,21,linkedin,TRUE,Ranstad Singapore,10000+,TRUE,TRUE,TRUE
+dev,11,14,linkedin,TRUE,Jobscentral,50-200,TRUE,TRUE,TRUE
+dev,10,17,linkedin,FALSE,Capgemini,10000+,TRUE,TRUE,FALSE
+dev,10,14,linkedin,FALSE,Robert Walters,1000-5000,TRUE,TRUE,TRUE
+dev,8,4,linkedin,FALSE,Manpower Singapore,1-50,TRUE,FALSE,TRUE
+dev,7,22,linkedin,FALSE,Kyndryl,10000+,TRUE,TRUE,FALSE
+dev,7,16,linkedin,FALSE,Pinpoint Asia,50-200,TRUE,TRUE,TRUE
+dev,6,23,linkedin,FALSE,YO HR Consultancy,11-50,TRUE,TRUE,TRUE
+dev,4,15,linkedin,FALSE,cal;bre,1-10,TRUE,FALSE,TRUE
+dev,4,13,linkedin,FALSE,Data Intellect,200-500,TRUE,FALSE,FALSE
+dev,3,4,linkedin,FALSE,Nodeflair,11-50,TRUE,FALSE,TRUE
+dev,2,7,linkedin,FALSE,NEXadept,1-10,TRUE,FALSE,TRUE
+dev,2,3,linkedin,FALSE,Visier Inc,200-500,TRUE,FALSE,FALSE
+pro,2,3,linkedin,TRUE,Flintex Consulting,11-50,TRUE,TRUE,TRUE
+pro,1,7,linkedin,TRUE,Flintex Consulting,11-50,TRUE,TRUE,TRUE
+de,7,13,linkedin,FALSE,Autodesk,10000+,TRUE,TRUE,FALSE
+de,6,23,linkedin,FALSE,HTX,1000-5000,TRUE,TRUE,FALSE
+de,6,9,linkedin,TRUE,Ranstad Singapore,10000+,TRUE,TRUE,TRUE
+de,6,6,linkedin,FALSE,Prudential Singapore,1000-5000,TRUE,TRUE,FALSE
+de,5,7,linkedin,TRUE,Ranstad Singapore,10000+,TRUE,TRUE,TRUE
+de,4,12,linkedin,TRUE,OKX,1000-5000,TRUE,TRUE,FALSE
+de,1,21,linkedin,FALSE,Innova Solutions,10000+,FALSE,TRUE,FALSE
+da,6,8,linkedin,FALSE,ExpressVPN,500-1000,TRUE,TRUE,FALSE
+da,5,16,linkedin,FALSE,PSA International,10000+,TRUE,TRUE,FALSE
+da,3,21,linkedin,FALSE,Temasek,500-1000,TRUE,TRUE,FALSE
+da,3,5,linkedin,TRUE,Tiktok,10000+,TRUE,TRUE,FALSE
+da,3,4,linkedin,FALSE,SeaMoney,200-500,TRUE,TRUE,FALSE
+da,2,18,linkedin,FALSE,JurongHealth Campus,1000-5000,FALSE,TRUE,FALSE
+ds,8,13,linkedin,TRUE,Tiktok,10000+,TRUE,TRUE,FALSE
+ds,6,12,linkedin,FALSE,PwC ,1000-5000,TRUE,TRUE,FALSE
+ds,5,19,linkedin,TRUE,Credit Agricole CIB,5000-10000,TRUE,TRUE,FALSE
+ds,3,13,linkedin,FALSE,HoYoverse,200-500,TRUE,TRUE,FALSE
+ds,1,13,linkedin,FALSE,Zig,11-50,FALSE,TRUE,FALSE
+ds,1,11,linkedin,FALSE,The Onset,11-50,TRUE,TRUE,TRUE
+ds,1,7,linkedin,FALSE,TENTEN Partners,11-50,TRUE,TRUE,TRUE
+se,16,13,jobstreet,FALSE,Keysight,10000+,TRUE,TRUE,FALSE
+se,15,26,jobstreet,FALSE,Thales Singapore,10000+,TRUE,TRUE,FALSE
+se,15,8,jobstreet,FALSE,Public Service Division,100-1000,TRUE,TRUE,FALSE
+se,12,23,jobstreet,FALSE,ScienTec Consulting,11-50,TRUE,TRUE,TRUE
+se,12,15,jobstreet,FALSE,Singapore Institute of Technology,100-1000,TRUE,TRUE,FALSE
+se,12,12,jobstreet,FALSE,Stripe,1000-5000,TRUE,TRUE,FALSE
+se,9,25,jobstreet,FALSE,Streem,50-200,TRUE,FALSE,FALSE
+se,9,17,jobstreet,FALSE,Supreme HR Advisory,50-100,TRUE,TRUE,TRUE
+se,9,7,jobstreet,FALSE,Clickhouse,50-200,TRUE,FALSE,FALSE
+se,7,24,jobstreet,FALSE,Hawksman Technology,1-10,TRUE,TRUE,TRUE
+se,6,32,jobstreet,FALSE,A*STAR,100-1000,TRUE,TRUE,FALSE
+se,6,26,jobstreet,FALSE,SingTel,10000+,TRUE,TRUE,FALSE
+se,6,25,jobstreet,FALSE,TG Services,1-10,TRUE,FALSE,TRUE
+se,6,14,jobstreet,TRUE,Manpower Singapore,1-50,TRUE,FALSE,TRUE
+se,6,12,jobstreet,FALSE,Arrowcrest Technologies,50-100,TRUE,FALSE,FALSE
+se,6,8,jobstreet,FALSE,Right Recruit,11-50,TRUE,TRUE,TRUE
+se,5,32,jobstreet,FALSE,Singapore Airlines,10000+,TRUE,TRUE,FALSE
+se,3,22,jobstreet,FALSE,Uarrow Pte Ltd,1-50,TRUE,FALSE,FALSE
+se,3,18,jobstreet,FALSE,Certis,10000+,TRUE,FALSE,FALSE
+se,2,24,jobstreet,FALSE,EA Recruitment,11-50,TRUE,TRUE,TRUE
+dev,25,6,jobstreet,TRUE,Surbana Jurong Consultants,10000+,FALSE,TRUE,FALSE
+dev,25,1,jobstreet,TRUE,Unison Consulting,200-500,TRUE,TRUE,TRUE
+dev,24,23,jobstreet,TRUE,Lubirzol,10000+,FALSE,FALSE,FALSE
+dev,23,27,jobstreet,FALSE,Safran Landing Systems,100-1000,TRUE,TRUE,FALSE
+dev,23,25,jobstreet,TRUE,Ploy Asia,11-50,TRUE,FALSE,TRUE
+dev,23,13,jobstreet,TRUE,ByteDance,10000+,TRUE,TRUE,FALSE
+dev,22,32,jobstreet,FALSE,Ploy Asia,11-50,TRUE,FALSE,TRUE
+dev,22,18,jobstreet,FALSE,Palo Alto Networks,10000+,TRUE,TRUE,FALSE
+dev,22,2,jobstreet,FALSE,WSH Experts,100-1000,TRUE,FALSE,FALSE
+dev,21,20,jobstreet,TRUE,Unison Consulting,200-500,TRUE,TRUE,TRUE
+dev,20,24,jobstreet,TRUE,Tiktok,10000+,TRUE,TRUE,FALSE
+dev,19,28,jobstreet,TRUE,GIC,1000-5000,TRUE,TRUE,FALSE
+dev,18,12,jobstreet,TRUE,PwC ,1000-5000,TRUE,TRUE,FALSE
+dev,17,9,jobstreet,FALSE,Standard Chartered,10000+,TRUE,TRUE,FALSE
+dev,17,6,jobstreet,TRUE,Cadmus Resources,11-50,TRUE,FALSE,TRUE
+dev,15,13,jobstreet,TRUE,Stripe,1000-5000,TRUE,TRUE,FALSE
+dev,14,11,jobstreet,TRUE,DBS Bank,10000+,TRUE,TRUE,FALSE
+dev,13,15,jobstreet,TRUE,Adecco Personel,1000-5000,TRUE,FALSE,TRUE
+dev,11,13,jobstreet,TRUE,Chambers International,1000-5000,TRUE,FALSE,FALSE
+dev,10,26,jobstreet,TRUE,Reeracoen,11-50,TRUE,FALSE,TRUE
+dev,9,26,jobstreet,FALSE,Wipro Limited,1000-5000,TRUE,TRUE,FALSE
+dev,9,19,jobstreet,FALSE,NIE,10000+,TRUE,TRUE,FALSE
+dev,8,14,jobstreet,TRUE,Capgemini,10000+,TRUE,TRUE,FALSE
+dev,8,9,jobstreet,FALSE,RecruitFirst,11-50,TRUE,FALSE,TRUE
+dev,6,26,jobstreet,TRUE,ScienTec Consulting,11-50,TRUE,TRUE,TRUE
+dev,6,21,jobstreet,TRUE,DBS Bank,10000+,TRUE,TRUE,FALSE
+dev,4,18,jobstreet,FALSE,Trinity Consulting Services,1-50,TRUE,FALSE,FALSE
+dev,3,15,jobstreet,TRUE,Micro Cloud Technology,11-50,TRUE,TRUE,FALSE
+dev,3,1,jobstreet,FALSE,Micro Cloud Technology,11-50,TRUE,TRUE,FALSE
+dev,2,11,jobstreet,TRUE,Unison Consulting,200-500,TRUE,TRUE,TRUE
+dev,2,10,jobstreet,FALSE,Pan United,1000-5000,TRUE,TRUE,FALSE
+dev,1,24,jobstreet,FALSE,Spark Systems,50-100,TRUE,TRUE,FALSE
+pro,3,6,jobstreet,FALSE,Ubisoft,100-1000,TRUE,TRUE,FALSE
+pro,2,28,jobstreet,FALSE,ComfortDelGro,10000+,TRUE,TRUE,FALSE
+pro,2,24,jobstreet,FALSE,UOB,10000+,TRUE,TRUE,FALSE
+pro,1,23,jobstreet,TRUE,Effective Engineering Pte Ltd,1-50,FALSE,FALSE,FALSE
+de,4,22,jobstreet,TRUE,Unison Consulting,200-500,TRUE,TRUE,TRUE
+de,2,19,jobstreet,TRUE,ScienTec Consulting,11-50,TRUE,TRUE,TRUE
+de,1,28,jobstreet,FALSE,Mediacorp,1000-5000,TRUE,TRUE,FALSE
+de,1,22,jobstreet,FALSE,NTUC Fairprice,10000+,TRUE,TRUE,FALSE
+de,1,9,jobstreet,FALSE,GovTech Singapore,1000-5000,TRUE,TRUE,FALSE
+da,5,28,jobstreet,FALSE,NESS Xpress,11-50,FALSE,TRUE,FALSE
+da,4,31,jobstreet,FALSE,Synapxe,1000-5000,TRUE,TRUE,FALSE
+da,4,8,jobstreet,FALSE,Tech in Asia,50-200,FALSE,TRUE,FALSE
+da,2,18,jobstreet,FALSE,APBA TG Human Resource,11-50,TRUE,TRUE,TRUE
+da,1,16,jobstreet,FALSE,NUHS,10000+,TRUE,TRUE,FALSE
+da,1,6,jobstreet,TRUE,Adecco Personel,1000-5000,TRUE,TRUE,TRUE
+ds,4,10,jobstreet,FALSE,PetroChina,100-1000,TRUE,TRUE,FALSE
+ds,4,2,jobstreet,TRUE,Tiktok,10000+,TRUE,TRUE,FALSE
+ds,3,20,jobstreet,TRUE,Tiktok,10000+,TRUE,TRUE,FALSE
+ds,2,26,jobstreet,FALSE,Grab,5000-10000,TRUE,TRUE,FALSE
+ds,1,6,jobstreet,TRUE,GovTech Singapore,1000-5000,TRUE,TRUE,FALSE
+se,22,10,glassdoor,TRUE,GIC,1000-5000,TRUE,TRUE,FALSE
+se,21,12,glassdoor,FALSE,Solderfield,11-50,TRUE,TRUE,FALSE
+se,21,4,glassdoor,FALSE,Tyco Electronics,10000+,TRUE,TRUE,FALSE
+se,20,14,glassdoor,TRUE,Intersoft KK,50-200,TRUE,TRUE,FALSE
+se,19,17,glassdoor,TRUE,NIE,10000+,TRUE,TRUE,FALSE
+se,19,2,glassdoor,FALSE,Fairmart,11-50,TRUE,TRUE,FALSE
+se,17,10,glassdoor,FALSE,Wise,5000-10000,TRUE,FALSE,FALSE
+se,17,6,glassdoor,TRUE,ByteDance,10000+,TRUE,TRUE,FALSE
+se,17,2,glassdoor,FALSE,Singapore de Shushoku,1,TRUE,FALSE,TRUE
+se,16,30,glassdoor,TRUE,Supreme HR Advisory,50-100,TRUE,TRUE,TRUE
+se,13,24,glassdoor,FALSE,Beep Technologies,1-50,TRUE,FALSE,FALSE
+se,11,30,glassdoor,FALSE,Omnissa,1000-5000,TRUE,FALSE,FALSE
+se,10,2,glassdoor,FALSE,Aurora AsiaPacific,1-50,TRUE,FALSE,FALSE
+se,9,22,glassdoor,FALSE,Ecsal Technologies,1-10,TRUE,FALSE,FALSE
+se,8,23,glassdoor,FALSE,DSO National Laboratories,1000-5000,TRUE,TRUE,FALSE
+se,8,8,glassdoor,TRUE,GovTech Singapore,1000-5000,TRUE,TRUE,FALSE
+se,5,19,glassdoor,FALSE,Altonomy,50-200,TRUE,TRUE,FALSE
+se,4,3,glassdoor,FALSE,Telepathy Labs,1-50,TRUE,FALSE,FALSE
+se,3,25,glassdoor,FALSE,Snaphunt ,1-50,TRUE,FALSE,TRUE
+se,3,16,glassdoor,FALSE,Thunes,200-500,TRUE,FALSE,FALSE
+se,2,6,glassdoor,FALSE,DT One,200-500,TRUE,FALSE,FALSE
+se,2,5,glassdoor,FALSE,Intersoft KK,50-200,TRUE,TRUE,FALSE
+dev,27,7,glassdoor,FALSE,Aichat Pte Ltd,1-50,TRUE,TRUE,FALSE
+dev,25,6,glassdoor,FALSE,The Blacktree,1-50,TRUE,FALSE,FALSE
+dev,22,27,glassdoor,FALSE,Tejasco Techsoft,1-50,TRUE,FALSE,FALSE
+dev,22,22,glassdoor,FALSE,D L Resources,50-200,TRUE,TRUE,TRUE
+dev,22,20,glassdoor,FALSE,i-Consult Tech,1-50,TRUE,TRUE,FALSE
+dev,21,26,glassdoor,FALSE,StreamOn Technologies,1-50,TRUE,FALSE,FALSE
+dev,20,10,glassdoor,FALSE,R Systems,1000-5000,TRUE,TRUE,FALSE
+dev,20,4,glassdoor,TRUE,Trinity Consulting Services,1-50,TRUE,FALSE,FALSE
+dev,17,16,glassdoor,TRUE,ABS Connect,1-50,TRUE,TRUE,TRUE
+dev,17,12,glassdoor,FALSE,Knovel Engineering,5000-10000,TRUE,TRUE,FALSE
+dev,16,24,glassdoor,TRUE,Rapsys Technology,200-500,TRUE,TRUE,FALSE
+dev,15,11,glassdoor,FALSE,Bidot Tech,1-50,TRUE,FALSE,FALSE
+dev,14,19,glassdoor,FALSE,Rapsys Technology,200-500,TRUE,TRUE,FALSE
+dev,14,18,glassdoor,FALSE,Lexical Technology,1-50,TRUE,TRUE,FALSE
+dev,13,4,glassdoor,FALSE,ABS Connect,1-50,TRUE,TRUE,TRUE
+dev,12,21,glassdoor,FALSE,Elliott Moss Consulting,1-50,TRUE,TRUE,TRUE
+dev,7,16,glassdoor,FALSE,Kris InfoTech,50-200,TRUE,FALSE,TRUE
+dev,7,4,glassdoor,FALSE,amIT Global Solutions,1-50,TRUE,TRUE,TRUE
+dev,6,1,glassdoor,FALSE,IT Consultancy and Services,1-50,TRUE,FALSE,TRUE
+dev,4,30,glassdoor,FALSE,Lyneer Corp,200-500,TRUE,TRUE,TRUE
+dev,4,29,glassdoor,TRUE,DT One,200-500,TRUE,FALSE,FALSE
+dev,2,26,glassdoor,FALSE,Coding Collective,1-50,TRUE,FALSE,TRUE
+dev,2,10,glassdoor,FALSE,FMV Holdings,1-50,TRUE,FALSE,FALSE
+dev,1,18,glassdoor,FALSE,Technology Services Group,200-500,TRUE,TRUE,FALSE
+pro,5,27,glassdoor,TRUE,Link2 ManPower,1-50,TRUE,FALSE,TRUE
+pro,5,19,glassdoor,TRUE,Equiptest Engineering,50-200,TRUE,FALSE,FALSE
+pro,5,11,glassdoor,FALSE,EY,10000+,TRUE,TRUE,FALSE
+pro,3,13,glassdoor,FALSE,Palazon Technology,50-200,TRUE,FALSE,FALSE
+pro,2,18,glassdoor,FALSE,Engineering Edge,1-50,TRUE,FALSE,FALSE
+de,6,25,glassdoor,FALSE,NUS,10000+,TRUE,TRUE,FALSE
+de,5,28,glassdoor,FALSE,Commonwealth Bank,10000+,TRUE,TRUE,FALSE
+de,5,1,glassdoor,TRUE,WSH Experts,100-1000,TRUE,FALSE,FALSE
+de,3,30,glassdoor,FALSE,Shopee,5000-10000,TRUE,TRUE,FALSE
+de,2,30,glassdoor,FALSE,Cloudcraftz Solutions,1-50,TRUE,TRUE,FALSE
+de,2,24,glassdoor,FALSE,SSG SkillsFuture Singapore,500-1000,TRUE,TRUE,FALSE
+de,2,11,glassdoor,TRUE,PSA International,10000+,TRUE,TRUE,FALSE
+de,1,21,glassdoor,FALSE,Meta,10000+,TRUE,TRUE,FALSE
+da,7,30,glassdoor,FALSE,Sleek,200-500,FALSE,TRUE,FALSE
+da,7,6,glassdoor,FALSE,Binance,5000-10000,TRUE,TRUE,FALSE
+da,6,30,glassdoor,FALSE,KPMG,10000+,TRUE,TRUE,FALSE
+da,4,9,glassdoor,TRUE,Rapsys Technology,200-500,TRUE,TRUE,FALSE
+da,3,13,glassdoor,FALSE,Tan Tock Seng Hospital,1000-5000,FALSE,TRUE,FALSE
+da,2,29,glassdoor,TRUE,Rapsys Technology,200-500,TRUE,TRUE,FALSE
+da,2,12,glassdoor,FALSE,Quesscorp Holdings,10000+,TRUE,TRUE,FALSE
+da,2,4,glassdoor,FALSE,FHL Capital,1-50,FALSE,TRUE,FALSE
+da,2,3,glassdoor,TRUE,PwC ,1000-5000,TRUE,TRUE,FALSE
+ds,6,21,glassdoor,FALSE,SWAT Mobility,50-200,TRUE,TRUE,FALSE
+ds,6,19,glassdoor,FALSE,Funding Societies,500-1000,TRUE,TRUE,FALSE
+ds,5,13,glassdoor,FALSE,OCBC,10000+,TRUE,TRUE,FALSE
+ds,3,12,glassdoor,TRUE,PSA International,10000+,TRUE,TRUE,FALSE
+ds,2,5,glassdoor,TRUE,Binance,5000-10000,TRUE,TRUE,FALSE
+ds,1,5,glassdoor,TRUE,Kris InfoTech,50-200,TRUE,FALSE,TRUE
