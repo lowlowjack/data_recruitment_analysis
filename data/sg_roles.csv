@@ -1,0 +1,666 @@
+Index,Company,Role,Responsibility,Qualifications
+18,Outsource,Data Scientist,,"""Programming skills in Python
+
+Training and deploying machine learning models end-to-end
+
+Good understanding of basic statistics and deep learning techniques
+
+Any experience in data integration, profiling, validation, and cleansing
+
+Experience deploying TensorFlow and PyTorch into production.
+
+Programming skills in Python
+
+Training and deploying machine learning models end-to-end
+
+Good understanding of basic statistics and deep learning techniques
+
+Any experience in data integration, profiling, validation, and cleansing
+
+Experience deploying TensorFlow and PyTorch into production"
+24,Govtech Singapore,Data Scientist,"Facilitate discussions with stakeholders to understand their business challenges, sharpen the business use cases and translate them into data science projects/products.
+Perform data cleaning, pre-processing, feature engineering, and build data science models/products to address the use case.
+Present findings, solicit feedback and prioritise refinements to the analysis in close iteration with stakeholders while managing overall project timeline.
+Communicate the data insights and business impact of the projects/products in a clear and compelling narrative, supported with impactful visuals, to influence key decision makers.
+Depending on the use case, design of dashboards and interactive visualisations as tools for data exploration and storytelling may be expected.
+Depending on the use case, operationalise the use case by using existing MLOps platforms to deploy and monitor the machine learning models.
+Opportunities to be deployed to another government agency as the core data science team for a sustained period of 2-3 years, to build up data science capabilities at the agency. This will involve formulating and implementing strategies to build strong pipeline of impactful projects/products at the agency, and executing these projects or deploying the products into production systems.","A Bachelor's Degree or higher in Data Science, Computer Science, Statistics, Economics, Quantitative Social Science, or related disciplines. We will also factor in relevant certifications (e.g., Coursera).
+At least 2 years of relevant experience, in data science and/or public sector.
+Capable of translating business use cases into analytical problems, and identifying appropriate data sources to tackle these problems.
+Proficient in writing scripts for data preparation and analysis, using modern analysis tools & programming methodologies.
+Proficient cleaning, imputing and correcting anomalies in the collected structured or unstructured data to ensure a high standard of quality in data sets to be used in the analysis work.
+Proficient in exploring and analysing datasets, applying probability and statistical methodologies and techniques to discover insights from the data.
+Proficient in building machine learning models to identify, recognise patterns and make predictions.
+Proficient in design principles and use of visualisations to best convey the intended information.
+Capable of developing data visualisation from standalone graphs and charts on to highly customised tools and apps while tightly integrated to the data systems for real time visualisation of information.
+Capable of translating results from analysis work into actionable recommendations for stakeholders.
+Capable of communicating results and business impact from analysis work in a coherent data story for stakeholders.
+Have passion for improving public service and deliver public good using analytics and data.
+
+
+Preferred requirements: 
+
+
+Experience in model deployment and MLOps
+Experience in stakeholder management 
+Experience in agile project management 
+Experience in developing capability in others"
+11,Tencent,Data Scientist,"Analyse behavioural trends to identify malicious activities and detect anomalies in the WeChat ecosystem via data analysis and machine learning
+Devise appropriate strategies to track fraudulent accounts and protect users from spam or fraudulent activity
+Deploy and maintain machine learned models to help detect malicious accounts","Bachelor degree in Computer Science, Data Science, Mathematics, Economics, or Statistics or similar quantitative field
+Ability to communicate complex ideas to non-technical stakeholders in a way they can easily understand and appreciate.
+Experience on building machine learning or deep learning solutions
+Good knowledge of Python programming language, C/C++/Go programming language is preferred
+Self-driven, innovative, collaborative, with good communication and presentation skills, able to translate between business and technical audiences
+Fluency in both English and Mandarin to deal with international stakeholders and stakeholders who are based in HQ"
+21,Airwallex,Senior Data Scientist,"Optimize Airwallex’s overall risk portfolio effectively using experimentation and deep-dive analysis, and delivering insights to shape Airwallex’s overall risk strategy
+Apply machine learning and/or statistical models to estimate company-level risk exposure (e.g. acquiring, fraud, credit, FX, other product risks etc.) 
+Optimize our merchant-portfolio risk by leveraging a robust risk-adjusted margin model to inform onboarding decisions
+Objectively evaluate if our models and data are in compliance and aligned with the company’s risk strategy
+Partner with Risk Strategy, Risk Product, Engineering, Operations, and cross-functional teams to inform, influence, support, and execute Airwallex’s risk strategy","5+ years industry experience and an advanced degree (PhD or MS) in a quantitative field (e.g. Statistics, Engineering, Sciences, Computer Science, Economics) 
+Experience with communicating the results of analyses to executives and cross-functional teams to influence the strategy 
+Expert in data querying languages (e.g. SQL), scripting languages (e.g. Python), and/or statistical/mathematical software (e.g. R), experience in schema design and dimensional data modeling a plus
+Expert in experimentation, machine learning, and statistical modeling to drive data-informed decisions, experience with deploying production machine learning models a plus 
+Experience in technology, financial services and/or a high growth environment is advantageous
+"
+25,Tiktok,Data Scientist,"Responsibilities
+1. Work closely with stakeholders to capture requirements for data labeling projects;
+2. Track the progress of data labeling projects and manage resources to ensure timely completion;
+3. Develop strong relationships with XFN partner teams to deliver efficient data solutions that support revenue generation and cost savings;
+4. Translating complex business requirements into technical product solutions;
+5. Enhance on the service and quality of labelled data delivery;
+6. Innovate across multiple different data product types to reduce cost and increase impact;
+7. Utilize experience to recommend the right machine learning techniques to the appropriate business use-cases;
+8. Experience the entire model pipeline from data gathering to model delivery and maintenance.","What you will need
+1. Solid foundations of statistics and data science/analytics projects management is preferred;
+2. Outstanding skills of communication, collaboration, project management, problem solving, and an excellent team player;
+4. Strong interest in process optimisation and improvement;
+5. Highly conscientious with good attention to detail;
+6. Experience in artificial intelligence, computer vision, and machine learning techniques and other fields are highly preferred. 
+
+Qualifications
+
+ Minimum Qualifications
+1. Bachelor's degree in Computer Science, Engineering or equivalent practical experience;
+2. Experience with writing and optimizing SQL, and with one general purpose
+programming language (e.g., Java, C/C++, Python);
+3. Experience in data analytics and data visualization."
+23,CMA CGM,Data Scientist/Operations Research,"Gather business requirements from business users
+Data collection, cleansing, processing and analysis
+Building models to solve real-world problems raised by business users
+Data science (Anomaly detection with deep learning, Generative AI projects using Chat GPT API and Time series analysis)
+Operations research (Optimal flow in a network, Shortest path for maritime road that optimizes bunker cost,etc.)
+Participate and implement exciting protype projects that can be scaled within the organization and create a lasting impact (e.g. Data Science/AI Projects - Network Optimization)","Students currently pursing Bachelors / Master’s degree related to Computing/Data Science/Physics/Mathematics/ Analytics or Operational Research
+Ideally final year / penultimate year students
+Fast learner, ability to work independently
+Good exposure in using programming languages: Python and SQL
+Experience in Operations research / Machine learning / Front End is a plus"
+16,Sanofi,Data Scientist,"Understand the setup and capabilities of the site’s data integration layer and plant connectivity with the goal of designing and setting up bioprocess data framework and system.
+Combine expertise in biotechnological processes to ensure technical propositions are in accordance with Good Manufacturing Practices (GMP) and industrial constraints to maximize robustness, reliability and economics.
+Work with cross-functional stakeholders (including MSAT DSD and MSAT process engineers) to design and setup framework and systems to collate, manage, visualize and analyze bioprocess data.
+Translate process data to enable end-users (process engineers) to visualize data for process performance and trending, as well as to perform data analysis using in house statistical tools/softwares
+Work closely with MSAT DSD and MSAT process teams to analyse the real time process data to to improve process monitoring and control.
+Adheres to the work and governance frameworks and deliver in a timely manner. ","Holds or is working to complete a scientific or engineering degree (or higher), preferably in Biotechnology, Biological Sciences, or Chemical Engineering.
+Is data-driven, scientifically curious and an effective communicator.
+Ideally has work (or internship) experience in a cGMP biopharmaceutical facility, and/or small- or pilot-scale hands-on experience with mammalian cell culture and purification techniques.
+Is familiar with data analytics and an experience in using data analytics tools would be advantageous such as R, JMP, Python, Matlab. 
+Has experience with developing business requirements, use cases and user stories in a data analytics context."
+25,Outsource,Data Analyst,"Responsible for supporting analysis requirements such as ad-hoc analysis report, dashboards building, data tracking design, etc;
+ Use data-driven techniques to find weaknesses in payment products and implement improvements proactively;
+ Build data products to provide our customers with data insights and best practices in the Payments domain;
+ Cooperate with Products and Operation teams to define system requirements, build data products, improve and roll-out product features to support business."," Bachelor degree or above in Computer Science, Statistics, Mathematics or other related majors;
+ Proficient in SQL, familiar with C ++/Java/Golang is preferred;
+ Proficient in big data platforms such as Hive/ Spark;
+ Strong data analysis capabilities;
+ Experience in supporting and optimising business needs with data analysis
+ Background in internet companies or payments is preferred;
+ Strong interest in Data Analysis, Data Mining is preferred"
+18,Shopee,OR Data Analyst,"Data Analysis and Simulation: Analyse large datasets to uncover trends and insights that can drive innovative improvements in logistics and supply chain processes. Use simulation models to evaluate the potential impact of different operations models and strategies
+Transportation Optimisation: Focus on optimising logistics processes to deliver parcels to our users faster and at lower costs. This includes projects such as route optimisation, linehaul planning, automation and the placement of hubs etc. to enhance the efficiency of our delivery network
+Fulfilment Operations Optimisation: Develop strategies to optimise warehouse operations, including warehouse layout optimisation, automation, inventory management, improving packaging efficiency, and enhancing overall fulfilment processes etc.
+Project management: Conduct trials and build prototypes of solutions to evaluate effectiveness on the grounds. Design implementation steps to ensure theoretical improvements are realised
+Collaboration and Communication: Work closely with cross-functional teams, including logistics, product development, marketing, and finance, to understand business needs and provide data-driven solutions. Communicate findings and recommendations clearly to stakeholders
+Continuous Improvement and Innovation: Stay updated on the latest trends and advancements in operations research and logistics management. Propose innovative solutions to continuously improve Shopee’s operational efficiency","Education: Bachelor’s or Master’s degree in Operations Research, Industrial Engineering, Applied Mathematics, Statistics, Computer Science, or a related field
+Programming Skills: Proficiency in programming languages, with extensive use of Python for modelling and data analytics
+Experience: At least 2 years of experience in operations research, data analytics, or a similar analytical role, preferably in e-Commerce, logistics, or supply chain management. Applicants with 0-1 years of experience but with strong data analytics and Python skills are welcome to apply
+Problem-Solving: Strong problem-solving skills with a solid analytical mindset. Able to identify opportunities for value creation and support decision-making with logic and data
+Agility and Pragmatism: Capable of building prototypes and iterating solutions quickly, while incorporating real-life constraints into the models
+Communication Skills: Ability to effectively communicate complex findings to both technical and non-technical stakeholders
+Team Collaboration: Thrives in a team-based, energetic environment, demonstrating strong collaboration skills"
+18,Singtel,Data analyst," Data discovery, collection, analysis, and interpretation of data
+ Gather data from various sources including databases, spreadsheets & others and clean/ validate data to ensure accuracy. 
+ Dashboard Development and Management
+ Develop, maintain and publish Power BI/ Tableau dashboards covering but not limited to the following, for over 10+ departments across Singtel Networks 
+ Trouble Tickets 
+ Change Requests 
+ Mean Time to Resolve 
+ Key Risk Indicators 
+ Customer Care metrics 
+ Deep dive analysis 
+ Trouble Ticket system management
+ Manage and govern the primary cause and resolution code table used in Trouble Ticketing System) to ensure proper data integrity is in place. 
+ In-house Application Development
+ Utilize Microsoft Power Automate to develop and maintain in-house applications. 
+ Create automated workflows to streamline business processes. 
+ Design and implement custom solutions for various departments' needs. 
+ Collaborate with stakeholders to gather requirements and refine app functionalities. 
+ RPA Callbot Management
+ Process owner for the INOC RPA callbot to oversee all processes related to the RPA callbot. 
+ Oversee change management; maintenance and support activities related to INOC callbot. 
+ Project Management
+ Actively involved in projects to drive process improvement 
+ Oversee the migration from existing RPA callbot to new system (On-call management) to ensure the automated call-out for Network’s service impacting trouble tickets are promptly escalated to relevant stakeholders for fault resolution. 
+ May be required to be involved in other projects from time to time. 
+ Continuous Improvement
+ Identify opportunities for process improvements and recommend data-driven strategies. 
+ Implement Power Automate solutions to improve efficiency and reduce manual work. 
+ Monitor and optimize existing automated processes. 
+ Other Projects
+ Utilize Office 365 tools to create innovative solutions for but limited to Incident management and Dashboarding 
+ Explore integration possibilities between Power Automate and other Office 365 tools ","Bachelor’s degree in IT, or related field 
+ Proficiency in Tableau or similar data visualization tools e.g. Power BI 
+ Experience with RPA technologies and project management 
+ Knowledge in programming is essential. 
+ Strong analytical and problem-solving skills, with attention to detail and accuracy 
+ Excellent verbal and written communication skills; ability to present complex data in an 
+ understandable format. 
+ Proficiency in data analysis tools (e.g., SQL, Excel, Python, R), Microsoft Office 365 suite, 
+ with emphasis on Power Automate and data visualization tools (e.g., Tableau, Power BI). 
+ Able to work independently and at the same time able to work collaboratively in a team 
+ environment. 
+ Strong sense of urgency to be able to deliver desired outcomes in a timely manner "
+20,Binance ,Data Analyst,"Work across all aspects of data from engineering to building sophisticated visualisations, machine learning models and experiments
+Analyze and interpret large (PB-scale) volumes of transactional, operational and customer data using proprietary and open source data tools, platforms and analytical tool kits
+Translate complex findings into simple visualisations and recommendations for execution by operational teams and executives
+Be part of a fast-paced industry and organisation where time to market is critical","Undergraduate in a quantitative discipline, such as Mathematics/Statistics, Actuarial Sciences, Computer Science, Engineering, or Life Sciences
+Relevant work experience in an Analytics or Data Science role will be a plus
+Experience with common analysis tools such as SQL, R, and Python
+Experience with at least one data visualization tool (Tableau, Qlik, PowerBI, etc.)
+A self-driven team player with the ability to quickly learn and apply new tools and techniques such as proprietary analytical software, data models and programming languages
+A natural curiosity to identify, investigate and explain trends and patterns in data and an ability to analyse and break down complex concepts and technical findings into clear and simple language for communication
+A passion for Emerging Technologies related to Blockchain, Machine Learning and AI
+(Good to have) Experience and understanding of Blockchain concepts and mechanics (Defi, NFT, Metaverse, etc..)"
+6,Imerys,Data Analyst,"Acts as Data Champion and Data Steward at PM APAC level, coordination with PMA and PMEMEA
+Define & implement process, methods to manage data at PM APAC level, in accordance with the Group guidelines
+Identify & Resolve critical data management topics
+Lead Data Management projects, interface with Data Owner at Group level
+Manage main master data in Imerys SAP Global Core Model (Opera), in cooperation with the business stakeholders and the Opera team
+As Business Data Manager, participate in the implementation of SAP Opera in Asia Pacific, master data stream
+","Define & implement processes, methods to manage data at PM APAC level –Produce relevant guidelines and manuals to be followed by the organization (Blue book of Data Management)
+Identify & Resolve critical data management topics
+Initiate, coordinate or lead Data management projects
+Master Data Champion: representing & coordinating PM APAC in the master data and common language Global project, and Imerys Data Management initiatives
+Oversee the transition of Market Segmentation code & Territories Management v1 change to v2
+Coordinate subject matter experts (i.e. Customer codification and creation process, segmentation, Commercial Product and Product groups, ERP Product and Product creation process, Standard costing)
+Make sure that data flow and content provided to the organization and teams are updated & validated through systematic controls and clearly defined processes
+Ensuring Master Data is maintained up-to-date in systems (i.e. legacy BI, CRM), and coordinates / leads so that Data are created and up-to-date in the ERPs including Opera, exception rules
+Create / Update customers, vendors and materials in SAP Opera, using Opera tools and following Opera methodology. Scope covered: PM APAC, countries under Opera
+Identify, implement and homogenize the relevant tools / templates when this is required
+Key interfaces: strong partnership to be built with (i) Sales organizations, (ii) Finance, (iii) Product Managers, (iii) Customer Service (iv) IT, (v) S&OP, (vi) Supply Chain, (vii) Group Data management team
+Assign and approve MAIN-PROD Code and MAIN-CONSUM Code requests by entity via RunMyProcess
+Support the future Opera Wave in APAC"
+18,ESR Group,Data Analyst,"Predictive Modelling: 
+
+Build and deploy predictive models to forecast property values, market trends, and investment returns.
+Refine and improve predictive models based on real estate-specific factors.
+KPI Development and Enhancement: 
+
+Introduce and enrich industry-specific KPIs (Key Performance Indicators) tailored to real estate operations, such as occupancy rates, rental income, and net operating income.
+Track and analyze KPIs to measure performance, identify areas for improvement, and inform strategic decision-making.
+Data-Driven Insights: 
+
+Provide actionable recommendations based on data analysis to support real estate investment decisions, property management strategies, and market entry/exit strategies.
+Identify opportunities for data-driven innovation and process optimization within the real estate industry.","Final-year or Penultimate student pursuing a degree in Real Estate, Finance, Economics, or a related field.
+Strong understanding of real estate concepts, including property valuation, market analysis, and investment principles.
+Strong statistical and analytical skills, including proficiency in data analysis tools (e.g., Python, R, SQL). 
+Familiarity with data visualization tools (e.g., Tableau, Power BI).
+Strong problem-solving and analytical skills.
+Ability to work independently and as part of a team.
+Excellent communication and interpersonal skills. "
+6,EY,Data Analyst,"Work with clients, fraud investigators, internal and external auditors, lawyers and regulatory authorities in sensitive situations and assist on conducting data analysis for identifying evidences of fraud, abuse and wastage.
+Analyse and mine the data using different analytical techniques to identify both known and unknown patterns of fraud.
+Collect and analyse a large amount of structured and unstructured data from a variety of data sources including ERP systems, accounting systems and others.
+Carry out both reactive and proactive data analysis of large datasets using a wide range of technologies, database management systems, business information reporting and visualisation software.
+Develop algorithms and solutions to detect, respond, prevent, continually monitor and investigate areas of fraud, bribery & corruption, misconduct and financial crime.
+Develop supporting material using a suite of visualisation software to clearly present the benefits of the analysis to clients.
+Execute end-to-end lifecycle of the engagement - Data extraction, transformation, loading (ETL), analysis, visualisation, deployment and client delivery.
+Align to various strategic teams in the areas of technology and innovation","Strong academic qualifications with a degree in a STEM discipline (Computer Science, Engineering, Statistics, Mathematics, etc.) or equivalent work experience.
+Demonstrate proficiency in SQL and a broad awareness of programming languages such as Python, R as well as Visualization techniques.
+Strong problem solving, analytical, technical, and interpersonal skills.
+Strong critical thinking, problem-solving skills, understanding of algorithms and appreciation of working with data.
+Excellent communication skills and ability to explain complex analytical concepts to stakeholders from different backgrounds.
+Excellent documentation skills with the ability to prioritize when working on multiple engagements.
+The ability to travel to client locations.
+Previous consulting experience and experience with any of the below areas would be an added benefit: R
+elational databases, e.g. SQL Server, PostgreSQL, Oracle, MySQL; 
+ata visualisation software: Spotfire, Tableau, or Power BI; 
+zure/AWS cloud computing platform; 
+ig data technologies such as Spark, Elasticsearch, Hadoop; 
+tatistical techniques (regression, clustering etc.); 
+achine learning, pattern recognition, NLP etc. "
+14,Xcellink,Data Engineer,"Spearhead the development and seamless implementation of the data and model interface for the AI/Data Twin platform, facilitating efficient communication and integration with Internet of Things (IoT) and/or Building Management Systems (BMS) systems
+Collaborate closely with cross-functional teams to design and deploy a robust interface that effectively gathers, processes, and analyzes data from diverse sources, ensuring the AI/Data Twin platform operates with precision and accuracy
+Utilize advanced data integration techniques to harmonize disparate data streams from IoT sensors and BMS systems for data consumption by AI engine
+Drive innovation by exploring and implementing technologies, methodologies and approach to enhance the performance, scalability, and adaptability of the data interface
+Continuously monitor and optimize the data interface's performance, conducting thorough testing and validation to validate functionality, reliability, and security standards
+Collaborate with stakeholders to gather requirements, define project scope, and prioritize development tasks, ensuring alignment with organizational objectives and user needs","
+ Bachelor's or Master's degree in Computer Science, Automation, or a related field, with a solid foundation in data management, analytics, and system integration
+ Proven experience in developing and implementing data interfaces for complex systems, with a focus on AI/Data Twin platforms and integration with IoT and/or BMS systems
+ Proficiency in programming languages such as Python, Java, or C++, coupled with expertise in data modeling, API development, and database management systems
+ Strong understanding of IoT and BMS technologies, protocols, and standards, with hands-on experience in interfacing with sensors, actuators, and control systems
+ Familiarity with machine learning algorithms, statistical analysis, and data visualization techniques, enabling the extraction from large datasets
+ Excellent problem-solving skills, with the ability to troubleshoot technical issues, identify root causes, and implement effective solutions in a timely manner
+ Strong communication and collaboration skills, with the ability to work effectively in a cross-functional team environment and engage with stakeholders at all levels of the organization
+ Proactive mindset, with a passion for learning and staying abreast of emerging technologies, industry trends, and best practices in data management and system integration"
+24,PALO IT,Senior Data Engineer,"Design, implement, and maintain robust and scalable data pipelines to ingest, transform, and process structured and unstructured data from various sources. 
+Build and manage data warehouses and data lakes, implementing efficient data storage and retrieval mechanisms. Design data models that support business requirements and analytics use cases. 
+Leverage cloud platforms (e.g., AWS, Azure, GCP) to design and deploy scalable data infrastructure, optimizing for performance, cost-effectiveness, and reliability. 
+Implement data quality checks, validation processes, and data governance frameworks to ensure data accuracy, integrity, and compliance with security standards. 
+Continuously monitor and optimize data pipelines and infrastructure to improve processing speed, reduce latency, and enhance overall system performance. 
+Work collaboratively with data scientists, analysts, and other stakeholders to understand their data needs, provide technical expertise, and deliver solutions that meet business objectives. 
+Support business users by implementing data presentation layer including data visualisation using tools like Tableau, PowerBI etc. 
+Stay up-to-date with emerging technologies and industry trends in the big data and data engineering space, evaluating and implementing innovative solutions to improve data processing capabilities. 
+Support the definition and optimization of underlying data infrastructure ","You hold a Bachelor's, Master's, or Ph.D. degree in IT, Information Management, and/or Computer Science with at least 6 years of experience.
+Good knowledge of the big data technology landscape and concepts related to distributed storage/computing 
+Experience with big data frameworks (e.g. Hadoop, Spark) and distributions (Cloudera, Hortonworks, MapR) 
+Experience with batch & ETL jobs to ingest and process data from multiple data sources 
+Experience with NoSQL databases (e.g. Cassandra, MongoDB, Neo4J, ElasticSearch) 
+Experience with querying tools (e.g Hive, Spark SQL, Impala)
+Experience with PowerBI
+Experience or willingness to go in real-time stream processing, using solutions such as Kafka, AWS Kinesis, Flume, and/or Spark Streaming 
+Experience or willingness to learn about DevOps and DataOps principles (e.g Infrastructure as Code, automating different parts of the data pipeline) 
+High-level understanding of Data Science concepts and methodologies (how models are built, trained, and deployed) 
+You are passionate about technology and continuous learning comes naturally to you "
+18,Prudential,Data Engineer,"Build data pipelines to bring in wide variety of data from multiple sources within the organization as well as from relevant 3rd party sources.
+Collaborate with cross functional teams to source data and make it available for downstream consumption.
+Work with the team to provide an effective solution design to meet business needs.
+Ensure regular communication with key stakeholders, understand any key concerns in how the initiative is being delivered or any risks/issues that have either not yet been identified or are not being progressed.
+Ensure timelines (milestones, decisions, and delivery) are managed and value of initiative is achieved, without compromising quality and within budget.
+Ensure an appropriate and coordinated communications plan is in place for initiative execution and delivery, both internal and external.","Work as a team player
+Strong technical background in data, AI, and modern cloud infrastructure. • Excellent programming skills in languages such as Python, SQL.
+Experience with Cloud Infra providers like Azure data bricks, Google cloud platform or AWS
+Experience in building data pipelines using batch processing with Apache Spark (Spark SQL, Dataset / Dataframe API) or Hive query language (HQL)
+Knowledge of Big data ETL processing tools
+Experience with Hive and Hadoop file formats (Avro / Parquet / ORC)
+Basic knowledge of scripting (shell / bash)
+Experience of working with multiple data sources including relational databases (SQL Server / Oracle / DB2 / Netezza), NoSQL / document databases, flat files
+Basic understanding of CI CD tools such as Jenkins, JIRA, Bitbucket, Artifactory, Bamboo and Azure Dev-ops.
+Basic understanding of DevOps practices using Git version control
+Ability to debug, fine tune and optimize large scale data processing jobs"
+16,Outsource,Data Engineer,"Responsible for developing, implementing, and managing Business Intelligence (BI) solutions . 
+Collaborate with various departments to deliver insightful reports and analytics that support business strategies and goals. 
+Develop and maintain ETL processes for ingesting data from various sources 
+Developing and deploying data engineering solution","As a successful applicant, you will have at least 5 years of experience in Business intelligence and Data engineering. Experience with Oracle Data / OBIEE , Power BI , Cognos or Informatica will be of added advantage."
+4,Outsource,Data Engineer,"Design and deliver data solutions using an agile, iterative approach based on Scrum.
+Collaborate with the Data Engineering Manager on technical architecture and design.
+Understand commercial data usage to identify system requirements.
+Analyse and estimate IT changes, providing input on technical opportunities, constraints, and trade-offs.
+Create documentation and present to both technical and non-technical audiences.
+Conduct detailed testing for development activities and demonstrate results according to the delivery methodology and coding standards.
+Create and productionize complex data pipelines with quick turnaround and high quality.
+Assist the team with Production code deployment and data platform support.","Extensive cloud experience in Azure.
+Advanced coding experience in Python and SQL.
+Experience in Databricks or equivalent experience in Spark.
+In-depth knowledge of Azure services.
+Proficient in dimensional modelling (e.g., star and snowflake schema design).
+Knowledge of Python packages such as Pandas, Numpy, and Seaborn.
+Strong understanding of Big Data, MapReduce, Spark.
+Familiarity with reporting tools such as Power BI or Tableau."
+20,Tikttok,Data Engineer,"- Build data pipelines to portray business status, based on a deep understanding of our fast changing business and data-driven approach;
+- Extract information and signals from a broad range of data and build hierarchies to accomplish analytical and mining goals for “Packaged Business Capability” such as user-growth, gaming and searching;
+- Keep improving the integrity of data pipelines to provide a comprehensive data service. 
+","- Bachelor's degree in Computer Science, Statistic, Data Science or a related field;
+- Skilled in SQL and additional object-oriented programming language (e.g. Scala, Java, or Python);
+- Experience in issue tracking and problem solving on data pipelines;
+- Fast business understanding and collaborative in teamwork.
+Preferred Qualifications
+- Industry experience working with user growth.
+"
+22,Hoyoverse,Data Engineer,"Responsible for the development of the SDK data platform, such as reconciliation platform, revenue platform and risk management etc. ensure the stability of the data pipeline;
+Participate in building a unified data warehouse architecture, improve the data pipeline design and development of data warehouses, and provide stable and rich public data capabilities;
+Responsible for offline and real-time data development of the SDK business line, and support various internal data requirements of SDK;
+Ensure the accuracy of data and improve the development of data quality system.","Bachelor's degree or above in Computer Science or related majors;
+Master at least one object-oriented programming language,such as Python/Java/Scala, and deeply understand its ideas;
+Good knowledge of data structure and algorithm foundation.
+At least 3 years or above experience in big data processing projects;
+In-depth knowledge in distributed real-time or batch data processing systems;
+Proficient in SQL, have good SQL tuning experience, understand the basic principles and tuning of big data related components such as Hadoop/Hive/Spark/Kafka/Flink/Clickhouse;
+Excellent ability to analyze and solve problems, sense of responsibility, strong cross-team communication, coordination and collaboration ability."
+8,Agoda,Data Engineer,"Lead the team technically in improving scalability, stability, accuracy, speed and efficiency of our existing Data systems
+Build, administer and scale data processing pipelines
+Be comfortable navigating the following technology stack: Scala, Spark, java, Golang, Python3, scripting (Bash/Python), Hadoop, SQL, S3 etc
+Improve scalability, stability, accuracy, speed and efficiency of our existing data systems
+Design, build, test and deploy new libraries, frameworks or full systems for our core systems while keeping to the highest standards of testing and code quality
+Work with experienced engineers and product owners to identify and build tools to automate many large-scale data management / analysis tasks","Bachelor’s degree in Computer Science /Information Systems/Engineering/related field
+5+ years of experience in software and data engineering
+Good experience in Apache Spark
+Expert level understanding of JVM and either Java or Scala
+Experience debugging and reasoning about production issues is desirable
+A good understanding of data architecture principles preferred
+Any other experience with Big Data technologies / tools
+SQL experience
+Analytical problem-solving capabilities & experience
+Systems administration skills in Linux"
+3,Private,Data Scientist,"To analyze large amounts of data to discover trends and patterns
+To build predictive models and machine-learning algorithms
+Able to apply expertise in data science, statistical analysis, data mining and the visualization of data to derive insights that value-add to business decision making
+Undertake preprocessing of structured and unstructured data
+Together work closely with internal stakeholders to architect and design analytics solution to meet business objectives/ requirements ","At least with 5 to 6 years of working experience
+With GCP experience or other cloud knowledge/ experience 
+Having experience in SQL, processing large data sets 
+Good in creating Dashboard by using Tableau & Power BI & experience in Data Visualization
+Having experience in  Statistical analysis and computing
+Hand on experience or having knowledge in  Machine learning, prediction model, operations research
+Experience in Python, C++ or other Computer programming
+A person who is Statistical thinking & Technical acumen"
+17,Innocellence,Data Scientist,"Collaborate with customers to identify key questions, develop hypotheses, and test those hypotheses with clinical study data.
+Develop and implement machine learning algorithms for processing and interpreting sensor data (e.g., accelerometers, heart rate monitors, etc.). Research and develop novel digital measures with clinical significance.
+Apply data preprocessing techniques to optimize large sets of sensor data processing and analysis, handling issues like noise, missing data, and time-series synchronization.
+Validate and interpret results to ensure accuracy, performance and scalability in real-time processing of sensor streams.
+Communicate findings and insights to stakeholders through clear and compelling visualizations, reports, and presentations.
+Work closely with cross-functional teams to develop data-driven solutions to address business needs.
+Stay up-to-date with the latest advancements in data science and clinical research to continuously improve methodologies and approaches.","Ph.D. in Computer Science, Statistics, Mathematics, or related field.
+3+ years of experience in data science, with a focus on sensor data analysis or digital health.
+Strong understanding of time-series analysis, signal processing, and feature extraction techniques.
+Proficiency in programming languages and libraries (e.g, Python/R, TensorFlow/Pytorch) for data analysis and machine learning.
+Hands-on experience with big data platforms and tools (e.g., Hadoop, Spark, cloud environments).
+Strong problem-solving and analytical skills.
+Excellent communication and collaboration skills with the ability to work effectively in a team environment."
+24,OCBC,Data Scientist,"Work with business leaders across OCBC Group to identify opportunities for leveraging big data and Data Science to drive value for our customers and business.
+Develop and maintain machine learning/deep learning models to achieve the desire business outcomes – such as State of the Art Reinforcement learning system or RAG.
+Develop and maintain models in production. Set up controls and monitoring for the models.
+Use MLOps processes and tools to monitor and refine Production model performance and accuracy.","2 years+ of experience manipulating data sets and building statistical models, ideally with a Master’s or PhD in Statistics, Mathematics, Computer Science or other quantitative field.
+Strong programming experience, with solid understanding of software engineering design patterns and best practices.
+Experience with big data technologies such as Hadoop, Trino, and Spark.
+Some experience in the use of CI/CD and DevOps tools such as Jira, Jenkins, GIT/Bitbucket.
+You have a passion for AI and ML, and you want to learn more everyday"
+23,Ubisoft,Senior Data Scientist,"You will have become familiar with the data sources available in a AAA game development environment.
+You will have worked in collaboration with our Data Analysts and production teams to extract data you need.
+You will have built a solid relationship with key stakeholders in the game development teams.
+You will have worked on at least one project and showcased your capacity to identify and propose solutions to complex needs.
+After this period, you will be able to: 
+
+Understand the needs of a game development team, propose and communicate efficiently solutions that use data science tools/pipelines.
+Work in collaboration with colleagues in the Data Team to implement and maintain those tools/pipelines for games.
+Prioritize work that delivers the most value for players and the company.","Minimum 2 years experience in data science
+Proven track record of successful machine learning projects
+Up to date knowledge of machine learning algorithms
+Strong problem solving skills
+Self-motivation, organization skills, team spirit, proactivity
+Culturally flexible and enjoy working and communicating with different job families (game designers, data analysts, etc.)
+Interest in gaming is desired."
+18,Brightoil,Senior Data Scientist,"Design and implement large-scale dataset construction strategies to ensure data quality and diversity, meeting the training needs of various AI models.
+Lead the big data and web scraping team, overseeing data collection, cleaning, annotation, and preprocessing workflows.
+Utilize deep learning and machine learning techniques to optimize the model training process, including model architecture design, hyperparameter tuning, and performance evaluation.
+Collaborate with cross-functional teams, including engineering, product, and business teams, to identify and prioritize dataset and model requirements.
+Monitor performance metrics during the model training process to ensure model accuracy and efficiency.
+Promote the adoption of the latest data science methods and technologies within the team, ensuring skills remain up-to-date.","Bachelor's degree or higher in Computer Science, Data Science or Information Technology.
+A minimum of 2 years of experience in data science, machine learning, or a related domain, with at least 2 years focusing on large-scale model training.
+Strong programming skills in Python or R, and familiarity with deep learning frameworks such as TensorFlow and PyTorch.
+Proven track record in leading and managing data science projects, with the capability to mentor and guide team members on complex tasks.
+In-depth knowledge of dataset construction, including the best practices for data scraping, cleaning, and preprocessing.
+Practical project experience in natural language processing (NLP), computer vision (CV), or recommendation systems.
+Experience in publishing papers in relevant fields or presenting at reputable conferences, along with expertise in model training within large-scale distributed computing environments."
+12,ST Engineer,Data Analyst,"Collaborate with stakeholders to define business and information needs, and deliver data-centric solutions.
+Translate business requirements into analytics and reporting specifications.
+Optimize and automate data collection processes.
+Extract insights from raw data and present findings clearly through reports and visualizations.
+Assist with daily operational tasks, including application and server support.
+Support the sales and marketing teams in presales activities for potential customers.","Bachelor’s Degree or Diploma in Business Analytics, Computer Science, Data Analytics, Information Technology, or a related discipline.
+1-3 years of hands-on experience in data science or data engineering is preferred.
+Strong oral and written communication skills.
+Proficiency in Python, R, or another programming language.
+Experience with various databases (e.g., MSSQL, PostgreSQL, Oracle DB).
+Solid understanding of data analytics and processing tools such as Power BI, MicroStrategy, and Robotic Process Automation (RPA) is preferred.
+Proven experience in operationalizing end-to-end data analytics solutions.
+Familiarity with cloud services, particularly Amazon Web Services (AWS), is a plus."
+17,Adecco,Data Analyst,"Generate data-driven hypotheses to solve key Product/Business problems
+Use data to identify trends, spot anomalies and deepdive into their root causes
+Partner closely with the broader product and engineering team to design and analyze experiments that drive key product decisions, deepdive into existing data to recommend new product ideas to solve for the most impactful customer problems
+Provide catered analysis for specific products and operations, define critical business metrics and track them rigorously, and provide regular recommendations to achieve continuous improvements","2+ years of experience working in data-related and/or quantitative fields, including but not limited to Analytics and Applied Data Science
+Fluent with SQL, Python, R or other scripting/programming languages to problem-solve.
+Experienced with working with very large datasets
+Strong data visualization and storytelling skills.
+Experience in creating dashboards using PowerBI, Tableau or other visualisation tools
+Experience with Geography/Map related products will be a plus"
+11,Outsource,Business Data Analyst,"Understand and assist on planning and implementing the migration of reporting/analysis use-cases from “excel plugin” (e.g. essbase) to OLAP datasource like DataKit, Tableau, etc.
+Review, optimize and consolidate datasets needed by end-users within DataKit to encourage reusability through standardization and optimized performance.
+Collaborate with cross-functional teams to support initiatives.
+Identify opportunities and propose ideas to streamline processes.","Bachelor’s Degree with at least of 7 years of solid experience in Business/Data Analysis.
+Extensive experience in Business/Finance Analysis and Business Intelligence concepts.
+Hands-on experience in SQL and SQL/resource optimization.
+Hands-on experience in Tableau datasource and dashboard development/optimizations.
+Knowledge in Snowflake is a plus."
+21,Outsource,Data Analyst,"To plan & execute the implementation of the agreed initiatives for MIS Section.
+Fully understand the business requirements and translate these to effective and meaningful information.
+Build and modify operational database structures as identified based on business requirements
+Manage and maintain the Change Request for MIS
+Assist in data mining, data cleansing and data extraction
+Ensure data integrity
+Manage companywide management reporting requirement and deliver reports timely to the management team and business units
+Documentation of Request for reports, SOP and business requirements.
+Responsible for CRM related activities and Analysis
+Produce reports using the BI tools
+Support general day to day MIS activities","You will need to have minimum of 1-2 years of relevant experience
+Knowledge of SQL & Tableau Is a MUST requirement
+Knowledge in Crystal reports/Qlik View/Excel VBA/ Python is a big advantage.
+Experience with SAP is advantage.
+Skills in Microsoft office like Word, PowerPoint and Excel is essential.
+"
+22,Aon Lift,Data Analyst,"Communicate with the business as well as technical stakeholders to make sense of the data and to provide own perspective to assist the business.
+Understand the data mapping and transformations that would be involved for end-to-end data flows from raw data to final consumable layer in the database.
+Data modelling and data wrangling - to be able to organize data at both macro and micro level and provide logical data models for the consuming visualizations.
+Data visualization – Responsible for designing and delivering visualizations that present key insights derived from the data analysis
+Understand importance of speed performance of visualizations and how data modelling and visualization design impact it.
+Have an eye for aesthetics and good user experience design
+In addition to delivery of new projects, assist in support and enhancements of existing data projects and visualizations","Fluent in SQL and have in-depth hands-on knowledge with SQL with a relational database system or data warehouse
+Deep working experience in handling and wrangling of data using analytical tools (eg. Excel)
+Data modelling experience for analytical/reporting systems
+Able to conceptualize the processes and steps of what is required from the business all the way to implementing the data mapping/transformation processes from source to a target data model
+Good experience with visualization tools such as PowerBI or Tableau
+Understand the importance of performance and able to implement best practices in ensuring performance and maintainability for data and visualization projects
+This person is required to be dynamic and be a quick eager learner as knowledge about new technologies will need to be acquired on the spot
+Have a strong interest in data visualization and the art of delivery of insights to the end user"
+18,FPT Asia,Data Analyst,"Proactively work with business (research analysts, quantitative strategist, end-users, etc.), understand business requirements to enhance our investment and research data solutions and strategies.
+Contribute, influence, and review the design of data solutions to ensure they meet both business and operational needs.
+Conduct requirement workshop with business and/ or users and analyze requirements holistically to enhance our investment and research data solutions and strategies.
+Plan, develop testing strategies and execute end-to-end user acceptance testing of system and data changes in data solutions.
+Set up, improve and streamline new or existing data operations process through analyzing systems operations data (SLAs, customer satisfaction, delivery quality, team efficiency etc.) for continuous improvements.
+Monitor, analyze, investigate, and resolve day-to-day operational incidents and provide advisory to users.
+Design quality metrics and monitor quality of enterprise datasets.
+Manage and maintain strong data provider relationship to ensure continuous support and knowledge for existing and future data needs.","Possess a degree in Computer Science/Information Technology or related fields.
+Experience in data analysis.
+Experience in managing data reconciliation/quality checks (implementation, monitoring and troubleshooting).
+Able to handle data issue management.
+Proficient in Oracle PL/SQL.
+Experience in performing UAT.
+Able to manage SLA and queries from end users.
+Provide documentation support in technical/functional specifications.
+Possess investment data domain knowledge.
+Good problem solving and logical thinking.
+Skill good to have
+Tableau
+Snowflake
+Denodo"
+12,Yonyou,Data Analyst,"Receive training about BI (Business Intelligent) products, data analysis and project management;
+Execution of data validation, data mining and data analysis activities;
+Assist Lead Data Analyst(LDA) with BI project implementation leveraging Yonyou BI product (integrated with Yonyou EPR system and Cloud Platforms) ;
+Assist LDA in drafting the scope of BI project, and confirming the project timeline.
+Prepare technical documentation and other deliverables to meet the project requirements, and Summarize the best practice of software solution implementation project implementation.","Good knowledge of information technology, especially in the areas of ERP and IT-related industries.
+Possess a strong interest in investigating and identifying causes of issues, and able to propose solutions to rectify the issue.
+Strong writing, verbal communication, and presentation skills.
+Good planning and coordination skills. Good team player, responsible and conscientious.
+Resourceful, independent, responsive and proactive.
+Possess a strong interest in investigating and identifying causes of issues, and able to propose solutions to rectify the issue.
+Experience in providing training to the core team and end-users.
+Familiar with SQL query e.g. SQL Server, Oracle will have a great advantage.
+Based in Singapore, travel oversea upon project requirements.
+Must be able to speak mandarin to liaise with our China counterparts"
+9,Go Net Zero,Data Engineer,"Design, develop, and maintain scalable data ingestion pipelines for IoT devices, ensuring efficient and reliable data collection.
+Configure and optimize internal data processing jobs using Python or other relevant languages to handle large-scale IoT data, ensuring timely ingestion, processing, and storage.
+Monitor and troubleshoot data pipelines to ensure smooth and continuous data flow from IoT devices to back-end databases and storage systems.
+Implement data validation and cleansing processes to ensure data integrity and quality across the pipeline.
+Collaborate with development teams to ensure processed data is passed correctly to web frontend systems for visualization and reporting.
+Manage the integration of various data sources (e.g., sensor data, external APIs) into the data pipeline using cloud services, ensuring alignment with system architecture.
+Implement monitoring tools and alerts to track the health and performance of the data pipeline.
+Support data modeling and database optimization efforts to improve query performance and scalability.
+Develop and maintain documentation for all data pipeline components, processes, and configurations.
+Collaborate with cross-functional teams including data scientists, backend developers, and product managers to address evolving data processing needs.","3+ years of experience as a Data Engineer, Data Pipeline Engineer, or in a similar role, with a focus on IoT systems and data.
+Proven experience in designing, implementing, and managing ETL (Extract, Transform, Load) pipelines for large-scale data ingestion.
+Hands-on experience with database management systems such as SQL, PostgreSQL
+Experience with cloud services such as Azure (e.g., Azure Data Factory, Azure IoT Hub, Azure Stream Analytics) is a plus.
+Experience with monitoring, logging, and debugging tools to ensure pipeline reliability.
+Strong problem-solving skills and ability to troubleshoot issues in data ingestion and processing.
+Excellent communication skills and the ability to work with cross-functional teams."
+5,Outsource,Data Engineer,"Learn and Build: Gain hands-on experience with data pipelines and learn how to apply them effectively in real-world scenarios.
+Support Operations: Assist with planning logistics and coordinating events and workshops that help build our data-driven culture.
+Data Quality Assurance: Play a key role in evaluating and improving data quality, ensuring it meets the standards needed for impactful decision-making.
+Collaborate and Contribute: Work in a team environment where your problem-solving skills, attention to detail, and collaborative mindset will be highly valued.","Education: A diploma or bachelor’s degree in computer science, Software Engineering, Information Technology, or a related field.
+Technical Writing: Ability to create clear and concise technical documents is highly desirable.
+Tech stack: AWS, Python and SQL "
+11,Outsource,Data Engineer,"Design, build, and maintain scalable data pipelines and architectures.
+Handle both structured and unstructured data sources.
+Work extensively with relational databases (SQL) and NoSQL databases.
+Deploy applications to cloud platforms such as AWS and Azure.
+Collaborate with teams to build efficient batch and streaming data engineering pipelines.
+Leverage distributed data processing platforms like Apache Spark to handle large datasets.
+Continuously monitor and optimize data pipelines for performance and scalability.
+Ensure data quality, security, and availability across systems.","Degree in Computer Science or other relevant disciplines
+Strong proficiency in SQL and experience with relational and NoSQL databases.
+Experience deploying data applications with cloud platforms (AWS, Azure).
+Proficiency in handling structured and unstructured data from multiple sources.
+Demonstrated expertise in building data pipelines and data architecture.
+Hands-on experience with distributed data processing platforms like Apache Spark.
+Familiarity with batch and streaming data pipeline frameworks.
+Excellent problem-solving skills and attention to detail.
+Experience with data pipeline orchestration tools (e.g., Apache Airflow, Prefect).
+Familiarity with containerization (Docker, Kubernetes).
+Knowledge of ETL frameworks and processes.
+Exposure to machine learning workflows and model deployment is a plus."
+2,National Healthcare Group,Data Engineer,"Data Sourcing and Collection:
+•    Identifying and understanding source systems.
+•    Gathering requirements on frequency, volume, and types of data.
+•    Ensuring data privacy and compliance measures are in place.
+
+Data Ingestion using Informatica IDMC and/or Spark using Python:
+•    Designing, implementing, and optimizing data ingestion pipelines.
+•    Ensuring reliability and fault tolerance of ingestion pipelines.
+•    Handling data transformations, if necessary, during ingestion.
+•    Collaborate and manage vendors if required to for the data ingestion
+
+Data Lake Management:
+•    Proper structuring of the data in the DataBricks Lakehouse to ensure it is usable and performant.
+•    Setting up data partitioning, indexing, and archival strategies.
+•    Monitoring data growth and storage consumption.
+
+Data Quality and Validation:
+•    Implementing data quality checks and validation rules during ingestion.
+•    Ensuring data consistency, accuracy, and integrity.
+•    Setting up alerts for any data anomalies or issues.
+
+Integration with DataBricks Lakehouse:
+•    Making sure the ingested data is accessible, query-able, and optimized for performance in DataBricks.
+•    Collaborating with data scientists and analysts to ensure the data meets their requirements.
+
+Performance Tuning and Optimization:
+
+•    Monitoring ingestion pipeline performance and making and coordinate necessary adjustments.
+•    Ensuring data loads meet SLAs and optimizing as needed
+
+Security and Compliance:
+•    Setting up appropriate access controls and permissions.
+•    Ensuring data encryption at rest and in transit.
+•    Regularly auditing and reviewing data access patterns.
+
+Data Extraction Requests:
+-    Assist with data extraction requests
+
+Documentation and Knowledge Transfer:
+•    Creating thorough documentation on data ingestion pipelines, schedules, transformations, etc.
+•    Conducting regular knowledge sharing sessions with other team members.
+Collaboration:
+•    Working closely with other data engineers, data scientists, business analysts, and stakeholders.
+•    Communicating any changes, downtimes, or issues proactively.",no
+27,Outsource,Data Engineer,"Design, implement, and maintain ETL processes to extract data from multiple sources, transform it based on business rules, and load it into target systems.
+Develop and manage data mapping documentation, including source-to-target mappings and transformation logic.
+Collaborate with data analysts, data scientists, and business stakeholders to understand data requirements and optimize data flows.
+Conduct data quality checks and validation to ensure the accuracy and integrity of data.
+Optimize ETL workflows for performance, scalability, and reliability.
+Monitor and troubleshoot ETL processes, resolving issues promptly to minimize downtime.
+Stay up-to-date with industry best practices and emerging technologies in data engineering and ETL.","Proven experience as a Data Engineer, with a strong focus on data mapping and ETL processes.
+Strong SQL skills and experience with relational databases (e.g., MySQL, PostgreSQL, Oracle).
+Familiarity with data warehousing concepts and architecture."
+7,Outsource,Data Engineer,"Design, develop, and implement Spark Scala applications and data processing pipelines to process large volumes of structured and unstructured data
+Integrate Elasticsearch with Spark to enable efficient indexing, querying, and retrieval of data
+Optimize and tune Spark jobs for performance and scalability, ensuring efficient data processing and indexing in Elasticsearch
+Collaborate with data engineers, data scientists, and other stakeholders to understand requirements and translate them into technical specifications and solutions
+Implement data transformations, aggregations, and computations using Spark RDDs, DataFrames, and Datasets, and integrate them with Elasticsearch
+Develop and maintain scalable and fault-tolerant Spark applications, adhering to industry best practices and coding standards
+Troubleshoot and resolve issues related to data processing, performance, and data quality in the Spark-Elasticsearch integration","5+ Years as Data Engineer
+5 Years experience in Spark, Scala, Elastic Search
+Develop and maintain scalable and fault-tolerant Spark applications, adhering to industry best practices and coding standards
+Monitor and analyze job performance metrics, identify bottlenecks, and propose optimizations in both Spark and Elasticsearch components
+Stay updated with emerging trends and advancements in the big data technologies space to ensure continuous improvement and innovation
+Mandatory Skills : Spark, Scala & Elastic Search"
+21,Coca Cola,Data Engineer,"Leading the design and engineering of features and solutions related to data exploration, data transformation, data modeling, and data visualization.
+
+Developing well-designed, testable, efficient solutions using best software development practices.
+
+Designing, developing, testing, documenting, deploying, monitoring, and supporting code.
+
+Participating in a scrum team continuously delivering incremental high-quality code & reports to production.
+
+Interfacing with other technology teams to extract, transform, and load data from a wide variety of data sources.
+
+Providing visibility over plans and status to multiple stakeholders (IT).
+
+Working side by side with Architects, Product Managers & Product Owners defining and supporting platforms and applications.
+
+Supporting, mentoring, and coaching junior engineers.","Bachelor’s or Master degree in computer science, software engineering, information systems, business analytics or related field.
+
+3+ years’ experience of data platform development and operations.
+
+Hands on development for the ETL pipelines using Azure stack, including ADLS, Azure Data Factory, Azure Databricks, Logic Apps and etc. or any other cloud platform.
+
+Proficiency in relational SQL databases and non-relational databases.
+
+Experience with at least one of these programming languages: Python, Scala, R, Pyspark.
+
+Experience on data modeling framework include data schemas and views, build and maintain data warehouses/data lakes
+
+Proficiency in semantic model development thru any platform like Visual Studio, Dax Studio, Tabular Editor and etc.
+
+Understanding of data governance practices and standards
+
+Experience on CI/CD pipeline for deployment across various environments
+
+Preferred FMCG domain knowledge and retail measurement services tool
+
+Knowledge with predictive model to recommend actions and strategies, experienced in various machine learning mechanism like regression, clustering, classification etc.
+
+Knowledge on AI and relevant solutions to address technical difficulties and business needs
+
+Experience using CI/CD tools – GitHub, GoCD, Terraform and/or Azure DevOps.
+
+Knowledge with developing applications using public cloud, preferably Azure, specially focused in Data Services.
+
+Understanding of Agile Scrum, CI/CD, DevOps best practices.
+
+Solid understanding of Git-based version control.
+
+Experience working in a multinational, distributed team, with in-house and external delivery resources.
+
+Working on one Agile life cycle management tool such as Jira or Azure DevOps.
+
+"
+19,Rakuten,Data Engineer,"Explore and implement the most recent technologies and approaches for AI native user experience and build innovative products on top of LLM platform.
+Work closely with cross-functional teams to implement projects harnessing LLMs for diverse purposes and vertical domains.
+Design and develop a high-performance platform capable of handling and processing large volumes of requests efficiently.","BS degree in Computer Science, Computer Engineering, or other relevant majors with minimum 3-5 years of experience
+Extensive experience in programming, included but not limited to, the following programming languages: Java, Golang and C++
+Excellent problem-analysis and -solving skills, have industry experience in building backend services for large-scale distributed system
+Good team communication and collaboration skills.
+Strong execution skills and have a problem-solving mindset.
+
+Maintain a deep passion for contributing to the success of LLM is essential in this innovative and fast-paced team environment.
+Experience in serving Deep Learning models on framework TensorFlow, PyTorch, XGBoost etc.
+Familiar with LLM’s and supporting tools such as LangChain (Optional)"
